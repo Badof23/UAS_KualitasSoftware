@@ -11,7 +11,7 @@ email    :Admin
 password :Admin
 --------------------
 USER PELANGGAN
-email    :sam@email.com
+email    :Madoscake@gmail.com
 password :123456
 
 File database SQl menggunakan nama database 'dbfood'
@@ -36,17 +36,17 @@ Sisi Admin:
 =================================================================
 Tampilan Halaman Depan Website
 
+https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/halaman%20depan%20web.jpg
 
+Tampilan Bagian Halaman Login
+https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Keranjang.jpg
 
-Tampilan Bagian Pelanggan untuk melakukan pemesanan
-![Capture1](https://raw.githubusercontent.com/rizkkyab/UAS_KualitasSoftware/main/Screenshot%20(289).png)
+Tampilan Halaman Produk
+https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Produk%20Kami.jpg
 
-Tampilan Halaman Dasboard Admin
-![Capture1](https://raw.githubusercontent.com/rizkkyab/UAS_KualitasSoftware/main/Screenshot%20(286).png)
+Tampilan Halaman Keranjang
+(https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Keranjang.jpg)
 
-Tampilan Halaman Penambaham Menu Admin
-![Capture1](https://raw.githubusercontent.com/rizkkyab/UAS_KualitasSoftware/main/Screenshot%20(287).png)
-
-Tampilan Halaman Pesanan
-![Capture1](https://raw.githubusercontent.com/rizkkyab/UAS_KualitasSoftware/main/Screenshot%20(288).png)
+Tampilan Halaman Admin
+https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Admin.png
  
