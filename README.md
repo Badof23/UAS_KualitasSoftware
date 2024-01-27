@@ -36,17 +36,17 @@ Sisi Admin:
 =================================================================
 Tampilan Halaman Depan Website
 
-https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/halaman%20depan%20web.jpg
+![Capture](https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/halaman%20depan%20web.jpg)
 
 Tampilan Bagian Halaman Login
-https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Keranjang.jpg
+![Capture](https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Keranjang.jpg)
 
 Tampilan Halaman Produk
-https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Produk%20Kami.jpg
+![Capture](https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Produk%20Kami.jpg)
 
 Tampilan Halaman Keranjang
-(https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Keranjang.jpg)
+![Capture](https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Keranjang.jpg)
 
 Tampilan Halaman Admin
-https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Admin.png
+![Capture](https://raw.githubusercontent.com/Badof23/UAS_KualitasSoftware/main/Halaman%20Admin.png)
  
